@@ -3,15 +3,30 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main_00_HelloWorld.cpp">
-      <Filter>00. HelloWorld</Filter>
+      <Filter>Src\00. HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="main_01_PrintingText.cpp">
+      <Filter>Src\01. PrintingText</Filter>
+    </ClCompile>
+    <ClCompile Include="main_02_IOStreams.cpp">
+      <Filter>Src\02. IOStreams</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="00. HelloWorld">
+    <Filter Include="Src">
+      <UniqueIdentifier>{2a03880f-418d-47f3-9d4a-4262376102a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\00. HelloWorld">
       <UniqueIdentifier>{4b71358a-fc7c-4516-b2c7-f1651099e422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. PrintingText">
+      <UniqueIdentifier>{dea09acf-1530-4cda-9228-03d7922ad3fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\02. IOStreams">
+      <UniqueIdentifier>{d138b61c-c64a-421e-92e0-948e13a18cbc}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

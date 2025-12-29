@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <cstdint>
 #include "EntryPoints.h"
 
@@ -6,7 +6,9 @@ int main(int const argc, char const *const *argv)
 {
 	int(*const entryPoints[])()
 	{
-		main_00_HelloWorld
+		main_00_HelloWorld,
+		main_01_PrintingText,
+		main_02_IOStreams
 	};
 
 	uint32_t entryPointIdx{};
