@@ -86,6 +86,7 @@
     <ClCompile Include="main_02_IOStreams.cpp" />
     <ClCompile Include="main_03_Namespaces.cpp" />
     <ClCompile Include="main_04_Literals.cpp" />
+    <ClCompile Include="main_05_Variables.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

@@ -10,7 +10,8 @@ int main(int const argc, char const *const *argv)
 		main_01_PrintingText,
 		main_02_IOStreams,
 		main_03_Namespaces,
-		main_04_Literals
+		main_04_Literals,
+		main_05_Variables
 	};
 
 	uint32_t entryPointIdx{};

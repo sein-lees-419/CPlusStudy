@@ -17,6 +17,9 @@
     <ClCompile Include="main_04_Literals.cpp">
       <Filter>Src\04. Literals</Filter>
     </ClCompile>
+    <ClCompile Include="main_05_Variables.cpp">
+      <Filter>Src\05. Variables</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -39,6 +42,9 @@
     </Filter>
     <Filter Include="Src\04. Literals">
       <UniqueIdentifier>{4f89f086-2cde-4064-80b4-34bd80a3bb4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\05. Variables">
+      <UniqueIdentifier>{a0f3d09f-b0b2-4502-bb3d-f60d52815ace}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
