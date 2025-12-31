@@ -11,6 +11,9 @@
     <ClCompile Include="main_02_IOStreams.cpp">
       <Filter>Src\02. IOStreams</Filter>
     </ClCompile>
+    <ClCompile Include="main_03_Namespaces.cpp">
+      <Filter>Src\03. Namespaces</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -27,6 +30,9 @@
     </Filter>
     <Filter Include="Src\02. IOStreams">
       <UniqueIdentifier>{d138b61c-c64a-421e-92e0-948e13a18cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\03. Namespaces">
+      <UniqueIdentifier>{5332a296-b666-436a-a0df-313b4061ddea}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -84,6 +84,7 @@
     <ClCompile Include="main_01_PrintingText.cpp" />
     <ClCompile Include="main_00_HelloWorld.cpp" />
     <ClCompile Include="main_02_IOStreams.cpp" />
+    <ClCompile Include="main_03_Namespaces.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
