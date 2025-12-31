@@ -14,6 +14,9 @@
     <ClCompile Include="main_03_Namespaces.cpp">
       <Filter>Src\03. Namespaces</Filter>
     </ClCompile>
+    <ClCompile Include="main_04_Literals.cpp">
+      <Filter>Src\04. Literals</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -33,6 +36,9 @@
     </Filter>
     <Filter Include="Src\03. Namespaces">
       <UniqueIdentifier>{5332a296-b666-436a-a0df-313b4061ddea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\04. Literals">
+      <UniqueIdentifier>{4f89f086-2cde-4064-80b4-34bd80a3bb4a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
