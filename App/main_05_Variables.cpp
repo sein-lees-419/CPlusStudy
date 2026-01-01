@@ -41,6 +41,8 @@ int main_05_Variables()
 	unsigned char uc1			{ 'c' };
 
 	bool b						{ true };
+
+	// Unsigned 8-bit integer
 	constexpr std::byte byteVal	{ 42 };
 
 	return 0;

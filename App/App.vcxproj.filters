@@ -3,22 +3,25 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main_00_HelloWorld.cpp">
-      <Filter>Src\00. HelloWorld</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\00. HelloWorld</Filter>
     </ClCompile>
     <ClCompile Include="main_01_PrintingText.cpp">
-      <Filter>Src\01. PrintingText</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\01. PrintingText</Filter>
     </ClCompile>
     <ClCompile Include="main_02_IOStreams.cpp">
-      <Filter>Src\02. IOStreams</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\02. IOStreams</Filter>
     </ClCompile>
     <ClCompile Include="main_03_Namespaces.cpp">
-      <Filter>Src\03. Namespaces</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\03. Namespaces</Filter>
     </ClCompile>
     <ClCompile Include="main_04_Literals.cpp">
-      <Filter>Src\04. Literals</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\04. Literals</Filter>
     </ClCompile>
     <ClCompile Include="main_05_Variables.cpp">
-      <Filter>Src\05. Variables</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\05. Variables</Filter>
+    </ClCompile>
+    <ClCompile Include="main_06_Limits.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\06. Limits</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -28,23 +31,29 @@
     <Filter Include="Src">
       <UniqueIdentifier>{2a03880f-418d-47f3-9d4a-4262376102a7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\00. HelloWorld">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library">
+      <UniqueIdentifier>{0934ebe3-2760-484e-9851-1812c875c07e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\00. HelloWorld">
       <UniqueIdentifier>{4b71358a-fc7c-4516-b2c7-f1651099e422}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\01. PrintingText">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\01. PrintingText">
       <UniqueIdentifier>{dea09acf-1530-4cda-9228-03d7922ad3fc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\02. IOStreams">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\02. IOStreams">
       <UniqueIdentifier>{d138b61c-c64a-421e-92e0-948e13a18cbc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\03. Namespaces">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\03. Namespaces">
       <UniqueIdentifier>{5332a296-b666-436a-a0df-313b4061ddea}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\04. Literals">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\04. Literals">
       <UniqueIdentifier>{4f89f086-2cde-4064-80b4-34bd80a3bb4a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\05. Variables">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\05. Variables">
       <UniqueIdentifier>{a0f3d09f-b0b2-4502-bb3d-f60d52815ace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\06. Limits">
+      <UniqueIdentifier>{f2d254d3-afd2-4314-96b4-2210d209c6e8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
