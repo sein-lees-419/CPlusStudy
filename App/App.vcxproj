@@ -94,6 +94,7 @@
     <ClCompile Include="main_09_FloatingPoint.cpp" />
     <ClCompile Include="main_10_Enumerations.cpp" />
     <ClCompile Include="main_11_Structs.cpp" />
+    <ClCompile Include="main_12_ConditionalStatements.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

@@ -41,6 +41,9 @@
     <ClCompile Include="Employee.ixx">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\11. Structs</Filter>
     </ClCompile>
+    <ClCompile Include="main_12_ConditionalStatements.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\12. ConditionalStatements</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -87,6 +90,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\11. Structs">
       <UniqueIdentifier>{6da2c0c6-b634-4867-b15d-27b241dae745}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\12. ConditionalStatements">
+      <UniqueIdentifier>{dd5f4cbe-f2e8-46af-9b65-e931e01152ab}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

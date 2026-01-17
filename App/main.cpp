@@ -17,7 +17,8 @@ int main(int const argc, char const *const *argv)
 		main_08_Casting,
 		main_09_FloatingPoint,
 		main_10_Enumerations,
-		main_11_Structs
+		main_11_Structs,
+		main_12_ConditionalStatements
 	};
 
 	uint32_t entryPointIdx{};
