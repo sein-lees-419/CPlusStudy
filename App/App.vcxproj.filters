@@ -32,6 +32,9 @@
     <ClCompile Include="main_09_FloatingPoint.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\09. FloatingPoint</Filter>
     </ClCompile>
+    <ClCompile Include="main_10_Enumerations.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\10. Enumerations</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -72,6 +75,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\09. FloatingPoint">
       <UniqueIdentifier>{d474f724-0456-4b91-b710-c39ad20391be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\10. Enumerations">
+      <UniqueIdentifier>{e8ac8fe6-c6dd-4d20-aed7-876acc3240a7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

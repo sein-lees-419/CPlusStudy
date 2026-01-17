@@ -10,3 +10,4 @@ int main_06_Limits();
 int main_07_ZeroInitialization();
 int main_08_Casting();
 int main_09_FloatingPoint();
+int main_10_Enumerations();
