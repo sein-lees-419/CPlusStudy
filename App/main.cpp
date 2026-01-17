@@ -12,7 +12,10 @@ int main(int const argc, char const *const *argv)
 		main_03_Namespaces,
 		main_04_Literals,
 		main_05_Variables,
-		main_06_Limits
+		main_06_Limits,
+		main_07_ZeroInitialization,
+		main_08_Casting,
+		main_09_FloatingPoint
 	};
 
 	uint32_t entryPointIdx{};

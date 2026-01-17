@@ -23,6 +23,15 @@
     <ClCompile Include="main_06_Limits.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\06. Limits</Filter>
     </ClCompile>
+    <ClCompile Include="main_07_ZeroInitialization.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\07. ZeroInitialization</Filter>
+    </ClCompile>
+    <ClCompile Include="main_08_Casting.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\08. Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="main_09_FloatingPoint.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\09. FloatingPoint</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -54,6 +63,15 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\06. Limits">
       <UniqueIdentifier>{f2d254d3-afd2-4314-96b4-2210d209c6e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\07. ZeroInitialization">
+      <UniqueIdentifier>{a4910839-7e25-4c7b-ac54-71258528a314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\08. Casting">
+      <UniqueIdentifier>{94d3e94d-7098-42cb-ab66-6e9153f9d688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\09. FloatingPoint">
+      <UniqueIdentifier>{d474f724-0456-4b91-b710-c39ad20391be}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

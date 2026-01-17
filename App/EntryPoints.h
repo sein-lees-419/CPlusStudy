@@ -7,3 +7,6 @@ int main_03_Namespaces();
 int main_04_Literals();
 int main_05_Variables();
 int main_06_Limits();
+int main_07_ZeroInitialization();
+int main_08_Casting();
+int main_09_FloatingPoint();

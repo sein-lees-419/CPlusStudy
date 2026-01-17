@@ -88,6 +88,9 @@
     <ClCompile Include="main_04_Literals.cpp" />
     <ClCompile Include="main_05_Variables.cpp" />
     <ClCompile Include="main_06_Limits.cpp" />
+    <ClCompile Include="main_07_ZeroInitialization.cpp" />
+    <ClCompile Include="main_08_Casting.cpp" />
+    <ClCompile Include="main_09_FloatingPoint.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
