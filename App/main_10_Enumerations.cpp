@@ -25,8 +25,8 @@ enum class Error
 
 int main_10_Enumerations()
 {
-	//int value{ PieceType::KING };
-	auto value{ std::to_underlying(PieceType::KING) };
+	//std::uint64_t value{ PieceType::KING };
+	std::uint64_t value{ std::to_underlying(PieceType::KING) };
 
 	using enum PieceType;
 	auto piece{ QUEEN };

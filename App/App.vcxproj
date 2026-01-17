@@ -80,6 +80,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Employee.ixx" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main_01_PrintingText.cpp" />
     <ClCompile Include="main_00_HelloWorld.cpp" />
@@ -92,6 +93,7 @@
     <ClCompile Include="main_08_Casting.cpp" />
     <ClCompile Include="main_09_FloatingPoint.cpp" />
     <ClCompile Include="main_10_Enumerations.cpp" />
+    <ClCompile Include="main_11_Structs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
