@@ -95,6 +95,7 @@
     <ClCompile Include="main_10_Enumerations.cpp" />
     <ClCompile Include="main_11_Structs.cpp" />
     <ClCompile Include="main_12_ConditionalStatements.cpp" />
+    <ClCompile Include="main_13_ThreeWayComparisons.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

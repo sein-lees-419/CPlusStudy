@@ -44,6 +44,9 @@
     <ClCompile Include="main_12_ConditionalStatements.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\12. ConditionalStatements</Filter>
     </ClCompile>
+    <ClCompile Include="main_13_ThreeWayComparisons.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\13. ThreeWayComparisons</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -93,6 +96,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\12. ConditionalStatements">
       <UniqueIdentifier>{dd5f4cbe-f2e8-46af-9b65-e931e01152ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\13. ThreeWayComparisons">
+      <UniqueIdentifier>{6861554b-9a9a-4564-b452-f854d9d252de}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
