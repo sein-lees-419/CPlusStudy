@@ -19,7 +19,8 @@ int main(int const argc, char const *const *argv)
 		main_10_Enumerations,
 		main_11_Structs,
 		main_12_ConditionalStatements,
-		main_13_ThreeWayComparisons
+		main_13_ThreeWayComparisons,
+		main_14_Functions
 	};
 
 	uint32_t entryPointIdx{};

@@ -32,6 +32,9 @@ void compare(float const a, float const b)
 
 int main_13_ThreeWayComparisons()
 {
+	// Three-way comparison, also known as Spaceship operator,
+	// is specially efficient when comparison overhead is expensive.
+
 	compare(11, 0);
 	compare(11.0f, 120.0f);
 

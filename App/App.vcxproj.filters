@@ -47,6 +47,9 @@
     <ClCompile Include="main_13_ThreeWayComparisons.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\13. ThreeWayComparisons</Filter>
     </ClCompile>
+    <ClCompile Include="main_14_Functions.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\14. Functions</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -99,6 +102,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\13. ThreeWayComparisons">
       <UniqueIdentifier>{6861554b-9a9a-4564-b452-f854d9d252de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\14. Functions">
+      <UniqueIdentifier>{1fb24a48-5cea-41b6-bc48-520f010b0c69}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
