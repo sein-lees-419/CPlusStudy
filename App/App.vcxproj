@@ -54,6 +54,7 @@
       <TreatWarningAsError>true</TreatWarningAsError>
       <BuildStlModules>true</BuildStlModules>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -73,6 +74,7 @@
       <TreatWarningAsError>true</TreatWarningAsError>
       <BuildStlModules>true</BuildStlModules>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -97,6 +99,7 @@
     <ClCompile Include="main_12_ConditionalStatements.cpp" />
     <ClCompile Include="main_13_ThreeWayComparisons.cpp" />
     <ClCompile Include="main_14_Functions.cpp" />
+    <ClCompile Include="main_15_Attributes.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

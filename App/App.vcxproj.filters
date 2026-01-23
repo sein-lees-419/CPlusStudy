@@ -50,6 +50,9 @@
     <ClCompile Include="main_14_Functions.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\14. Functions</Filter>
     </ClCompile>
+    <ClCompile Include="main_15_Attributes.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\15. Attributes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -105,6 +108,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\14. Functions">
       <UniqueIdentifier>{1fb24a48-5cea-41b6-bc48-520f010b0c69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\15. Attributes">
+      <UniqueIdentifier>{ab3240f3-29a0-4b8f-bc37-80c80454d805}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

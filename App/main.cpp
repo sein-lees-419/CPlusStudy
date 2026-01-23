@@ -20,7 +20,8 @@ int main(int const argc, char const *const *argv)
 		main_11_Structs,
 		main_12_ConditionalStatements,
 		main_13_ThreeWayComparisons,
-		main_14_Functions
+		main_14_Functions,
+		main_15_Attributes
 	};
 
 	uint32_t entryPointIdx{};
