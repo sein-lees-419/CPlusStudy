@@ -21,7 +21,10 @@ int main(int const argc, char const *const *argv)
 		main_12_ConditionalStatements,
 		main_13_ThreeWayComparisons,
 		main_14_Functions,
-		main_15_Attributes
+		main_15_Attributes,
+		main_16_Arrays,
+		main_17_vector,
+		main_18_optional
 	};
 
 	uint32_t entryPointIdx{};

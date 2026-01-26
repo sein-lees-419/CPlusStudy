@@ -16,3 +16,6 @@ int main_12_ConditionalStatements();
 int main_13_ThreeWayComparisons();
 int main_14_Functions();
 int main_15_Attributes();
+int main_16_Arrays();
+int main_17_vector();
+int main_18_optional();

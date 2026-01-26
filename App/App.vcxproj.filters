@@ -53,6 +53,15 @@
     <ClCompile Include="main_15_Attributes.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\15. Attributes</Filter>
     </ClCompile>
+    <ClCompile Include="main_16_Arrays.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\16. Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="main_17_vector.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\17. vector</Filter>
+    </ClCompile>
+    <ClCompile Include="main_18_optional.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\18. optional</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -111,6 +120,15 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\15. Attributes">
       <UniqueIdentifier>{ab3240f3-29a0-4b8f-bc37-80c80454d805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\16. Arrays">
+      <UniqueIdentifier>{11cda299-b987-4ea3-af72-c152173bb938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\17. vector">
+      <UniqueIdentifier>{8467fa6b-cf6d-462f-a7e8-d2402c38eb58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\18. optional">
+      <UniqueIdentifier>{bb6805fa-957a-4019-ad26-fb9aba19bae3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

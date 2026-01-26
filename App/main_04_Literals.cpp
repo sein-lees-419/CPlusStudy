@@ -1,4 +1,6 @@
-﻿int main_04_Literals()
+﻿import std;
+
+int main_04_Literals()
 {
 	int decimal			{ 123 };
 	int octal			{ 0173 };
@@ -14,6 +16,9 @@
 
 	int separated		{ 1234'5678 };
 	char const *concat	{ "Hello, " "World" };
+
+	std::size_t sizeVal	{ 500uz };
+	long long ssizeVal	{ 500z };
 
 	return 0;
 }

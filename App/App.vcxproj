@@ -100,6 +100,9 @@
     <ClCompile Include="main_13_ThreeWayComparisons.cpp" />
     <ClCompile Include="main_14_Functions.cpp" />
     <ClCompile Include="main_15_Attributes.cpp" />
+    <ClCompile Include="main_16_Arrays.cpp" />
+    <ClCompile Include="main_17_vector.cpp" />
+    <ClCompile Include="main_18_optional.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
