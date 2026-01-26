@@ -62,6 +62,9 @@
     <ClCompile Include="main_18_optional.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\18. optional</Filter>
     </ClCompile>
+    <ClCompile Include="main_19_StructuredBindings.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\19. main_19_StructuredBindings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -129,6 +132,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\18. optional">
       <UniqueIdentifier>{bb6805fa-957a-4019-ad26-fb9aba19bae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\19. main_19_StructuredBindings">
+      <UniqueIdentifier>{17c4cde5-a21a-4adc-9f72-bfb6ca078633}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

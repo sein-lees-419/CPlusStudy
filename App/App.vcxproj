@@ -103,6 +103,7 @@
     <ClCompile Include="main_16_Arrays.cpp" />
     <ClCompile Include="main_17_vector.cpp" />
     <ClCompile Include="main_18_optional.cpp" />
+    <ClCompile Include="main_19_StructuredBindings.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

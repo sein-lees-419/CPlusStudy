@@ -19,3 +19,4 @@ int main_15_Attributes();
 int main_16_Arrays();
 int main_17_vector();
 int main_18_optional();
+int main_19_StructuredBindings();

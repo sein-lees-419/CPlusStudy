@@ -24,7 +24,8 @@ int main(int const argc, char const *const *argv)
 		main_15_Attributes,
 		main_16_Arrays,
 		main_17_vector,
-		main_18_optional
+		main_18_optional,
+		main_19_StructuredBindings
 	};
 
 	uint32_t entryPointIdx{};
