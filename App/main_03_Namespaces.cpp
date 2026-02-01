@@ -31,6 +31,14 @@ namespace MyNameSpace2::Nested
 	}
 }
 
+namespace
+{
+	void thisFileOnlyFunc()
+	{
+		std::println("This functions is only available in this .cpp file.");
+	}
+}
+
 int main_03_Namespaces()
 {
 	println("Hello, World!");

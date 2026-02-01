@@ -4,7 +4,8 @@
 
 int main(int const argc, char const *const *argv)
 {
-	int(*const entryPoints[])()
+	using MainFunc = int(*)();
+	static MainFunc constexpr ENTRY_POINTS[]
 	{
 		main_00_HelloWorld,
 		main_01_PrintingText,
@@ -25,12 +26,15 @@ int main(int const argc, char const *const *argv)
 		main_16_Arrays,
 		main_17_vector,
 		main_18_optional,
-		main_19_StructuredBindings
+		main_19_StructuredBindings,
+		main_20_Loops,
+		main_21_InitializerLists,
+		main_22_Strings
 	};
 
 	uint32_t entryPointIdx{};
 	if (argc == 2)
 		entryPointIdx = static_cast<uint32_t>(std::atoi(argv[1]));
 
-	return entryPoints[entryPointIdx]();
+	return ENTRY_POINTS[entryPointIdx]();
 }

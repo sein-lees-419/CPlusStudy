@@ -104,6 +104,9 @@
     <ClCompile Include="main_17_vector.cpp" />
     <ClCompile Include="main_18_optional.cpp" />
     <ClCompile Include="main_19_StructuredBindings.cpp" />
+    <ClCompile Include="main_20_Loops.cpp" />
+    <ClCompile Include="main_21_InitializerLists.cpp" />
+    <ClCompile Include="main_22_Strings.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

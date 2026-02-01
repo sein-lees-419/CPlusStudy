@@ -20,3 +20,6 @@ int main_16_Arrays();
 int main_17_vector();
 int main_18_optional();
 int main_19_StructuredBindings();
+int main_20_Loops();
+int main_21_InitializerLists();
+int main_22_Strings();

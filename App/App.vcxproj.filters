@@ -63,7 +63,16 @@
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\18. optional</Filter>
     </ClCompile>
     <ClCompile Include="main_19_StructuredBindings.cpp">
-      <Filter>Src\01. A Crash Course in C++ and the Standard Library\19. main_19_StructuredBindings</Filter>
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\19. StructuredBindings</Filter>
+    </ClCompile>
+    <ClCompile Include="main_20_Loops.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\20. Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="main_21_InitializerLists.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\21. InitializerLists</Filter>
+    </ClCompile>
+    <ClCompile Include="main_22_Strings.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\22. Strings</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -133,8 +142,17 @@
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\18. optional">
       <UniqueIdentifier>{bb6805fa-957a-4019-ad26-fb9aba19bae3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\19. main_19_StructuredBindings">
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\19. StructuredBindings">
       <UniqueIdentifier>{17c4cde5-a21a-4adc-9f72-bfb6ca078633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\20. Loops">
+      <UniqueIdentifier>{34386188-c7ee-456c-aeee-fc0ded409ab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\21. InitializerLists">
+      <UniqueIdentifier>{42e18dd7-fd11-4e6b-ae70-d6d47bf18d1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\22. Strings">
+      <UniqueIdentifier>{1c225954-3f63-456a-8129-44d313917db0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
