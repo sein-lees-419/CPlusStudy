@@ -29,7 +29,8 @@ int main(int const argc, char const *const *argv)
 		main_19_StructuredBindings,
 		main_20_Loops,
 		main_21_InitializerLists,
-		main_22_Strings
+		main_22_Strings,
+		main_23_UniformInitialization
 	};
 
 	uint32_t entryPointIdx{};
