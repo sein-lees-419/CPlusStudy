@@ -77,6 +77,9 @@
     <ClCompile Include="main_23_UniformInitialization.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\23. UniformInitialization</Filter>
     </ClCompile>
+    <ClCompile Include="main_24_DesignatedInitializers.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\24. DesignatedInitializers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -159,6 +162,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\23. UniformInitialization">
       <UniqueIdentifier>{0c7b1896-d929-4880-acb4-5cbaf5802d33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\24. DesignatedInitializers">
+      <UniqueIdentifier>{dfa321c2-6cdd-442b-8613-0ea9568514df}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
