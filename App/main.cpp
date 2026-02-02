@@ -31,7 +31,8 @@ int main(int const argc, char const *const *argv)
 		main_21_InitializerLists,
 		main_22_Strings,
 		main_23_UniformInitialization,
-		main_24_DesignatedInitializers
+		main_24_DesignatedInitializers,
+		main_25_Exceptions
 	};
 
 	uint32_t entryPointIdx{};

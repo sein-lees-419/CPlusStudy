@@ -80,6 +80,9 @@
     <ClCompile Include="main_24_DesignatedInitializers.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\24. DesignatedInitializers</Filter>
     </ClCompile>
+    <ClCompile Include="main_25_Exceptions.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\25. Exceptions</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -165,6 +168,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\24. DesignatedInitializers">
       <UniqueIdentifier>{dfa321c2-6cdd-442b-8613-0ea9568514df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\25. Exceptions">
+      <UniqueIdentifier>{9917041c-855d-486a-9979-a1d947d27f5c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

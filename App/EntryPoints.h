@@ -25,3 +25,4 @@ int main_21_InitializerLists();
 int main_22_Strings();
 int main_23_UniformInitialization();
 int main_24_DesignatedInitializers();
+int main_25_Exceptions();
