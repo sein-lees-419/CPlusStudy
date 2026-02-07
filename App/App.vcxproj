@@ -110,6 +110,7 @@
     <ClCompile Include="main_23_UniformInitialization.cpp" />
     <ClCompile Include="main_24_DesignatedInitializers.cpp" />
     <ClCompile Include="main_25_Exceptions.cpp" />
+    <ClCompile Include="main_26_TypeAlias.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

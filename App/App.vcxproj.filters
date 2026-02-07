@@ -83,6 +83,9 @@
     <ClCompile Include="main_25_Exceptions.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\25. Exceptions</Filter>
     </ClCompile>
+    <ClCompile Include="main_26_TypeAlias.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\26. TypeAlias</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -171,6 +174,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\25. Exceptions">
       <UniqueIdentifier>{9917041c-855d-486a-9979-a1d947d27f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\26. TypeAlias">
+      <UniqueIdentifier>{1be897de-1107-49f7-b530-bd1e66463818}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
