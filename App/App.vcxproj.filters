@@ -86,6 +86,9 @@
     <ClCompile Include="main_26_TypeAlias.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\26. TypeAlias</Filter>
     </ClCompile>
+    <ClCompile Include="main_27_TypeInference.cpp">
+      <Filter>Src\01. A Crash Course in C++ and the Standard Library\27. TypeInference</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -177,6 +180,9 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\26. TypeAlias">
       <UniqueIdentifier>{1be897de-1107-49f7-b530-bd1e66463818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\27. TypeInference">
+      <UniqueIdentifier>{27d4804f-1fe2-4bf3-8b7b-590f33c80a3c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

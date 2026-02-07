@@ -27,3 +27,4 @@ int main_23_UniformInitialization();
 int main_24_DesignatedInitializers();
 int main_25_Exceptions();
 int main_26_TypeAlias();
+int main_27_TypeInference();

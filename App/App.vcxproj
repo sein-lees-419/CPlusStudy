@@ -111,6 +111,7 @@
     <ClCompile Include="main_24_DesignatedInitializers.cpp" />
     <ClCompile Include="main_25_Exceptions.cpp" />
     <ClCompile Include="main_26_TypeAlias.cpp" />
+    <ClCompile Include="main_27_TypeInference.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
