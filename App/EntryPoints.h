@@ -1,5 +1,6 @@
 ﻿#pragma once
 
+// 01
 int main_00_HelloWorld();
 int main_01_PrintingText();
 int main_02_IOStreams();
@@ -28,3 +29,6 @@ int main_24_DesignatedInitializers();
 int main_25_Exceptions();
 int main_26_TypeAlias();
 int main_27_TypeInference();
+
+// 02
+int main_28_CStyleStrings();

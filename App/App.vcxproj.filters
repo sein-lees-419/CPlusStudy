@@ -89,6 +89,9 @@
     <ClCompile Include="main_27_TypeInference.cpp">
       <Filter>Src\01. A Crash Course in C++ and the Standard Library\27. TypeInference</Filter>
     </ClCompile>
+    <ClCompile Include="main_28_CStyleStrings.cpp">
+      <Filter>Src\02. Working with Strings and String Views\28. CStyleStrings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -183,6 +186,12 @@
     </Filter>
     <Filter Include="Src\01. A Crash Course in C++ and the Standard Library\27. TypeInference">
       <UniqueIdentifier>{27d4804f-1fe2-4bf3-8b7b-590f33c80a3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\02. Working with Strings and String Views">
+      <UniqueIdentifier>{0ad73992-8f26-4b77-938f-f26055e7c8d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\02. Working with Strings and String Views\28. CStyleStrings">
+      <UniqueIdentifier>{457bf471-f124-4c02-b57e-0c43b2173803}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

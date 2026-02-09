@@ -7,6 +7,7 @@ int main(int const argc, char const *const *argv)
 	using MainFunc = int(*)();
 	static MainFunc constexpr ENTRY_POINTS[]
 	{
+		// 01
 		main_00_HelloWorld,
 		main_01_PrintingText,
 		main_02_IOStreams,
@@ -34,7 +35,10 @@ int main(int const argc, char const *const *argv)
 		main_24_DesignatedInitializers,
 		main_25_Exceptions,
 		main_26_TypeAlias,
-		main_27_TypeInference
+		main_27_TypeInference,
+
+		// 02
+		main_28_CStyleStrings
 	};
 
 	uint32_t entryPointIdx{};

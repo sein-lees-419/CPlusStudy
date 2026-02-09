@@ -47,7 +47,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <LanguageStandard_C>stdclatest</LanguageStandard_C>
@@ -55,6 +55,7 @@
       <BuildStlModules>true</BuildStlModules>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -67,7 +68,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <LanguageStandard_C>stdclatest</LanguageStandard_C>
@@ -75,6 +76,7 @@
       <BuildStlModules>true</BuildStlModules>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -112,6 +114,7 @@
     <ClCompile Include="main_25_Exceptions.cpp" />
     <ClCompile Include="main_26_TypeAlias.cpp" />
     <ClCompile Include="main_27_TypeInference.cpp" />
+    <ClCompile Include="main_28_CStyleStrings.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
