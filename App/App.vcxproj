@@ -115,6 +115,7 @@
     <ClCompile Include="main_26_TypeAlias.cpp" />
     <ClCompile Include="main_27_TypeInference.cpp" />
     <ClCompile Include="main_28_CStyleStrings.cpp" />
+    <ClCompile Include="main_29_RawStringLiterals.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />

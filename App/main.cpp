@@ -38,7 +38,8 @@ int main(int const argc, char const *const *argv)
 		main_27_TypeInference,
 
 		// 02
-		main_28_CStyleStrings
+		main_28_CStyleStrings,
+		main_29_RawStringLiterals
 	};
 
 	uint32_t entryPointIdx{};
