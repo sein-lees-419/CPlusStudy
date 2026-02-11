@@ -98,6 +98,9 @@
     <ClCompile Include="main_30_StringClass.cpp">
       <Filter>Src\02. Working with Strings and String Views\30. StringClass</Filter>
     </ClCompile>
+    <ClCompile Include="main_31_StringLiterals.cpp">
+      <Filter>Src\02. Working with Strings and String Views\31. StringLiterals</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -204,6 +207,9 @@
     </Filter>
     <Filter Include="Src\02. Working with Strings and String Views\30. StringClass">
       <UniqueIdentifier>{13db705b-0801-47c0-bc2d-c02545333bbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\02. Working with Strings and String Views\31. StringLiterals">
+      <UniqueIdentifier>{5b8d0586-f13e-46f8-a5d7-72994ae46d4a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

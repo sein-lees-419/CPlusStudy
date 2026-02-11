@@ -34,3 +34,4 @@ int main_27_TypeInference();
 int main_28_CStyleStrings();
 int main_29_RawStringLiterals();
 int main_30_StringClass();
+int main_31_StringLiterals();

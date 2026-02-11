@@ -40,7 +40,8 @@ int main(int const argc, char const *const *argv)
 		// 02
 		main_28_CStyleStrings,
 		main_29_RawStringLiterals,
-		main_30_StringClass
+		main_30_StringClass,
+		main_31_StringLiterals
 	};
 
 	uint32_t entryPointIdx{};

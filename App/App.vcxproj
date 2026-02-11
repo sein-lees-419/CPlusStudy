@@ -117,6 +117,7 @@
     <ClCompile Include="main_28_CStyleStrings.cpp" />
     <ClCompile Include="main_29_RawStringLiterals.cpp" />
     <ClCompile Include="main_30_StringClass.cpp" />
+    <ClCompile Include="main_31_StringLiterals.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
