@@ -36,3 +36,4 @@ int main_29_RawStringLiterals();
 int main_30_StringClass();
 int main_31_StringLiterals();
 int main_32_NumericConversions();
+int main_33_StringView();

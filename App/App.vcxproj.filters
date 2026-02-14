@@ -104,6 +104,9 @@
     <ClCompile Include="main_32_NumericConversions.cpp">
       <Filter>Src\02. Working with Strings and String Views\32. NumericConversions</Filter>
     </ClCompile>
+    <ClCompile Include="main_33_StringView.cpp">
+      <Filter>Src\02. Working with Strings and String Views\33. StringView</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
@@ -216,6 +219,9 @@
     </Filter>
     <Filter Include="Src\02. Working with Strings and String Views\32. NumericConversions">
       <UniqueIdentifier>{1b542d7f-a4b0-4ee6-b56f-cddd4788dff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\02. Working with Strings and String Views\33. StringView">
+      <UniqueIdentifier>{218ca2ce-242a-4a5f-82a6-5a38378351a8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
