@@ -39,6 +39,17 @@ namespace
 	}
 }
 
+namespace MyNameSpace3
+{
+	inline namespace Inline
+	{
+		void insideInline()
+		{
+			std::println("insideInline");
+		}
+	}
+}
+
 int main_03_Namespaces()
 {
 	println("Hello, World!");
@@ -53,6 +64,14 @@ int main_03_Namespaces()
 
 	namespace MyNested = MyNameSpace2::Nested;
 	MyNested::myFunc3();
+
+	// Everything that is declared in an inline namespace
+	// is automatically available in the parent namespace.
+	MyNameSpace3::insideInline();
+	MyNameSpace3::Inline::insideInline();
+	
+	using namespace MyNameSpace3;
+	Inline::insideInline();
 
 	return 0;
 }

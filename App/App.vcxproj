@@ -118,6 +118,7 @@
     <ClCompile Include="main_29_RawStringLiterals.cpp" />
     <ClCompile Include="main_30_StringClass.cpp" />
     <ClCompile Include="main_31_StringLiterals.cpp" />
+    <ClCompile Include="main_32_NumericConversions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EntryPoints.h" />
